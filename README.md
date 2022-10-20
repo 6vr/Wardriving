@@ -96,4 +96,4 @@ Now, using pandas and folium can be plotted on a map, I recommend using google C
 References: [Hak5 video](https://www.youtube.com/watch?v=pFHUPs51CRQ)
 
 
-That's all guys. Maybe i'm forgetting something, i always keep an eye on instagram @_asnq for any questions..
+That's all guys. Maybe i forgot something, i always keep an eye on instagram @_asnq for any questions..

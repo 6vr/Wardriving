@@ -1,6 +1,6 @@
 # Wardriving with Raspberry
 
-Kismet Version: 2016.07.R1-1
+Kismet Version: 2022-08-R1
 
 Raspbian Buster armhf
 
